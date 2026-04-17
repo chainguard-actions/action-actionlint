@@ -1,6 +1,6 @@
 name: 'actionlint with reviewdog'
 description: 'run actionlint with reviewdog'
-author: 'step-security'
+author: '@shogo82148'
 inputs:
   github_token:
     description: 'GITHUB_TOKEN.'
@@ -51,7 +51,7 @@ inputs:
     required: false
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/step-security/action-actionlint:v1.69.1@sha256:1f5f0bbdfa72dd7022a04b03e8ce994ee2e955e2c54294740d023daf516a5025' #v1.69.1
+  image: 'docker://ghcr.io/reviewdog/action-actionlint@sha256:09e37f098b827b1425d4559baa5352ecea222b9912037d06f6cb2a9528b0cb3b' # v1.71.0
   entrypoint: /entrypoint.sh
 branding:
   color: red
