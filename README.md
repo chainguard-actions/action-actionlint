@@ -1,4 +1,4 @@
-# step-security/action-actionlint
+# reviewdog/action-actionlint
 
 Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
 
