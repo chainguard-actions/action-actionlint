@@ -1,6 +1,13 @@
-# step-security/action-actionlint
+# reviewdog/action-actionlint
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v1.69.1 | [`v1.69.1`](https://github.com/chainguard-actions/action-actionlint/tree/v1.69.1) | — |
+| v1.71.0 | [`v1.71.0`](https://github.com/chainguard-actions/action-actionlint/tree/v1.71.0) | — |
 
 ## Privacy
 
