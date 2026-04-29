@@ -1,5 +1,7 @@
 # reviewdog/action-actionlint
 
+run actionlint with reviewdog
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint).
 
 ## Versions

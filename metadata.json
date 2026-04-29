@@ -1,5 +1,6 @@
 {
   "owner": "reviewdog",
   "name": "action-actionlint",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "run actionlint with reviewdog"
 }
