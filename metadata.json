@@ -1,7 +1,0 @@
-{
-  "owner": "reviewdog",
-  "name": "action-actionlint",
-  "visibility": "public",
-  "description": "run actionlint with reviewdog",
-  "block_publish": false
-}
