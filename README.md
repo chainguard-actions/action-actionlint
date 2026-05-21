@@ -8,8 +8,8 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1.69.1 | [`v1.69.1`](https://github.com/chainguard-actions/action-actionlint/tree/v1.69.1) | — |
-| v1.71.0 | [`v1.71.0`](https://github.com/chainguard-actions/action-actionlint/tree/v1.71.0) | — |
+| v1.69.1 | [`v1.69.1`](https://github.com/chainguard-actions/reviewdog--action-actionlint/tree/v1.69.1) | — |
+| v1.71.0 | [`v1.71.0`](https://github.com/chainguard-actions/reviewdog--action-actionlint/tree/v1.71.0) | — |
 
 ## Privacy
 
